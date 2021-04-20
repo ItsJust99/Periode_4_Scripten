@@ -16,11 +16,11 @@ namespace Operators
 
             #region AND operator
             // 01. Note down the symbol of the AND operator.
-            // &&
+                // &&
 
             // 02. Explain what an AND operator is and what it does.
-            // The And operator is an operator that both statement need to be true 
-            // It checks if the statement are true 
+                // The And operator is an operator that both statement need to be true 
+                // It checks if the statement are true 
 
             // 03. Finish the Truth table for the AND operator.
             //     A     | B     | C
@@ -32,11 +32,11 @@ namespace Operators
 
             #region OR operator
             // 04. Note down the symbol of the OR operator.
-            // ||
+                // ||
 
             // 05. Explain what an OR operator is and what it does.
-            // The OR operator is an operator that need just one of the statement need to be true 
-            // It checks if onte of the statement are true
+                // The OR operator is an operator that need just one of the statement need to be true 
+                // It checks if onte of the statement are true
 
             // 06. Finish the Truth table for the OR operator.
             //     A     | B     | C
@@ -49,10 +49,10 @@ namespace Operators
 
             #region NOT operator
             // 07. Note down the symbol of the NOT operator.
-            // !
+                // !
 
             // 08. Explain what an NOT operator is and what it does.
-            // when placing this it before a condition it inverts the value, so true becomes false, and false becomes true
+                // when placing this it before a condition it inverts the value, so true becomes false, and false becomes true
 
             #endregion
 
