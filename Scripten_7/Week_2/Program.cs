@@ -45,18 +45,7 @@ namespace Week_2
               *     - Create a basic game that lets a hero fight a monster
              */
 
-            class Hero{
-                string name;
-                bool Hit point;
-                bool attack bonus;
-            }
             
-            class Monster
-            {
-                int type;
-                bool Hit points;
-                int flee;
-            }
         }
     }
 }
